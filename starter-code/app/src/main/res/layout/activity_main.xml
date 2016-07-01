@@ -11,7 +11,95 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
+        android:layout_gravity="left"
         >
+
+    <TextView
+        android:id="@+id/textView_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is a TextView."
+        android:textSize="26dp"
+        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textStyle="italic"
+            android:textSize="22dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"/>
+        <TextView
+            android:id="@+id/textView_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textSize="26dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textStyle="italic"
+            android:textSize="22dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"/>
+        <TextView
+            android:id="@+id/textView_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textSize="26dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textStyle="italic"
+            android:textSize="22dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"/>
+        <TextView
+            android:id="@+id/textView_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textSize="26dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textStyle="italic"
+            android:textSize="22dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"/>
+        <TextView
+            android:id="@+id/textView_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textSize="26dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/textView_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is a TextView."
+            android:textStyle="italic"
+            android:textSize="22dp" />
 
        <!-- Put your views inside this LinearLayout -->
 
